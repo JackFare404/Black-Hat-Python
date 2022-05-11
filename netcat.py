@@ -1,3 +1,5 @@
+# Client -t localhost -p 9999
+# Server -t localhost -p 9999 -l -e="dir"
 import socket
 import threading
 import sys
